@@ -62,7 +62,7 @@ session_start();
     <!-- Navigation -->
     <nav>
 
-    <a href="index.php">Home</a>
+    <a href="index.php">Homie</a>
 
     <a href="books.php">Books</a>
 
